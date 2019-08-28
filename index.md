@@ -1,4 +1,4 @@
-# Jackson Rosenberg's GitHub Site
+# Jackson Rosenberg's First CS193 Homework
 ## Things I enjoy about CS193:
 - The class teaches a lot of fundamentals necessary for being in the CS Department.
 - The instructors are very open and personal, and seem very helpful.

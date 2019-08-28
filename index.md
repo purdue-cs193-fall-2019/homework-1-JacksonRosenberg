@@ -1,3 +1,9 @@
+# Jackson Rosenberg's GitHub Site
+## Things I enjoy about CS193:
+- The class teaches a lot of fundamentals necessary for being in the CS Department.
+- The instructors are very open and personal, and seem very helpful.
+- You get exposure to working in GitHub and to working with the terminal.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

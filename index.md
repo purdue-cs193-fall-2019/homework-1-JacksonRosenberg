@@ -2,7 +2,7 @@
 ## Things I enjoy about CS193:
 ```markdown
 - The class teaches a lot of fundamentals necessary for being in the CS Department.
-- The instructors are very open and personal, and seem very helpful.
+- The instructors are very open and relatable, and seem very helpful.
 - You get exposure to working in GitHub and to working with the terminal.
 ```
 
